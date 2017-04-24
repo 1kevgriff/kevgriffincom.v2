@@ -1,0 +1,15 @@
+---
+title: Are we too dependent on the Internet?
+tags: |-
+
+  - bing
+  - books
+  - google
+  - internet
+permalink: are-we-too-dependent-on-the-internet
+id: 647
+updated: '2010-01-19 06:00:00'
+date: 2010-01-19 06:00:00
+---
+
+<p>In my office, there lives a monster.&#160; This monster is called “The Internet Killer,” and he likes to poke his head out every now.&#160; When he does, our internet goes down for hours upon hours.&#160; During this time, I still have work too do, but I often find that my production level is limited by the lack of internet.</p>  <p><strong>Are we too dependent on the Internet?</strong></p>  <p><font color="#2e2e2e">I’m in that weird generation where I have had access to the Internet for most of my life, but I can still remember not having it.&#160; I have used a card catalog.&#160; I have used an encyclopedia.&#160; I have had to retain knowledge for more than a few minutes.</font></p>  <p><font color="#2e2e2e">This was also around the time I started learning how to program.&#160; My first few BASIC applications were self taught from a help file.&#160; I didn’t have an Internet to go to whenever I ran into a problem.&#160; I was forced to either figure it out on my own, or travel to the library to reference whatever material (if they had any material at all).&#160; Having to work through these issues forced me to retain knowledge for an extended period of time.&#160; You never knew when you were going to have use what you had learned before.</font></p>  <p><font color="#2e2e2e">Fast forward to today.&#160; I’m working on a few features for a project, and we lose our internet.&#160; You might be saying, “Kevin, you should be able to code just fine without the internet.”&#160; And you are right, I should be able to.&#160; However, if you’re venturing into territory that you’re not familiar with, your work is either going to take two or three times as long as it would had you had access to reference materials.</font></p>  <p>“<font color="#2e2e2e">Have you ever heard of books?” Yes, and I have plenty of them.&#160; Books are hard to reference.&#160; Books are awful for troubleshooting problems.&#160; Can you type an error string or code into a book?&#160; How long does it take to find a book that might have the information you’re looking for?&#160; Does it actually contain information that is useful, or just code snippets that is causing the error you have?</font></p>  <p><font color="#2e2e2e">Google (Bing, or whatever you use) is fast, accurate (for the most part), and easily accessible.&#160; The “whole world at your fingertips” is no joke.&#160; Within minutes, I have access to references, books, blogs, forums, etc.&#160; Your problem is never new, and the Internet is quick to provide answers.</font></p>  <p><font color="#2e2e2e">Does the internet make us stronger, or is it making us weaker?&#160; I’ll let you decide.</font></p>

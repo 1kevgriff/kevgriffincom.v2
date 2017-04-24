@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Kevin Griffin | Developer, Trainer, Entreprenuer</title>
+
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/main.css" />
+</head>
+
+<body>
+    <div class="container">
+        <header class="clearfix">
+            <h1 id="logo"> Kevin Griffin</h1>
+            <nav id="top-menu">
+                <ul>
+                    <li><a href="#">Articles</a></li>
+                    <li><a href="#">Hire Me</a></li>
+                    <li><a href="#">Speaking</a></li>
+                </ul>
+            </nav>
+            <ul id="et-social-icons">
+                <li class="et-social-icon et-social-facebook">
+                    <a href="https://www.facebook.com/currio.me" target="_blank"><span>Facebook</span></a>
+                </li>
+                <li class="et-social-icon et-social-twitter">
+                    <a href="https://twitter.com/pro_laur" target="_blank"><span>Twitter</span></a>
+                </li>
+                <li class="et-social-icon et-social-google">
+                    <a href="https://plus.google.com/u/0/+LaurIvan" target="_blank"><span>Google+</span></a>
+                </li>
+            </ul>
+        </header>
+    </div>
+
+    {{!--
+    <div id="navbar">
+        <div id="navbar_left">
+            <h1>Kevin Griffin</h1>
+            <h2>Developer, Trainer, Entreprenuer</h2>
+        </div>
+        <div id="navbar_right">
+            <nav>
+                <ul>
+                    <li>Articles</li>
+                    <li>Hire Me</li>
+                    <li>Github</li>
+                    <li>Twitter</li>
+                </ul>
+            </nav>
+        </div>
+        <div class="clearfix"></div>
+    </div>--}}
+
+
+    <ul>
+        {{#each page.posts.data as |post|}}
+        <li>
+            <a href="{{url_for post.path}}">{{post.title}}</a>
+        </li>
+        {{/each}}
+    </ul>
+    <a href="{{url_for page.next_link}}">Next</a> {{#each site.pages as |page|}}
+    <a href="{{url_for page.path}}">{{page.title}}</a> {{/each}}
+</body>
+
+</html>

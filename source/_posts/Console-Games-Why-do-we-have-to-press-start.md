@@ -1,0 +1,17 @@
+---
+title: 'Console Games: Why do we have to press start?'
+tags: |-
+
+  - Game Development
+  - ps3
+  - start button
+  - twitter
+  - xbox
+  - xna
+permalink: console-games-why-do-we-have-to-press-start
+id: 643
+updated: '2010-01-05 06:00:00'
+date: 2010-01-05 06:00:00
+---
+
+<p>Interesting question came up on Twitter the other day:</p>  <p>“Press Start” screens?&#160; Why can’t I just go straight to the main menu?</p>  <p>If you’re a gamer, especially on consoles, you’ve seen this screen more often than you’d care to.&#160; It’s a little annoyance.&#160; However, there is a very good reason for having this screen in place.</p>  <p>Imagine you’re running four controller on your Xbox, and all four of them are turned on.&#160; Then you put in a single player game, and it comes up to that annoying “Press Start” screen.&#160; Which controller do you use to press start with?&#160; The answer is easy: any of them!</p>  <p>The “Press Start” screen is designed to determine which controller the game should poll for input.&#160; During this screen, the game is polling all connected controllers for input.&#160; If any of them register a “start” button push, the game makes that controller the “default” controller.&#160; The use-case for this scenario is that the player should be able to use any connected controller to play the game, and not be forced to use controller #1.&#160; This is considered a <a href="http://creators.xna.com/en-US/education/bestpractices">best practice</a>.</p>  <p><em>The More You Know</em>…</p>  <div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:C16BAC14-9A3D-4c50-9394-FBFEF7A93539:5f86861a-8375-4d01-bfaa-da47b46c611a" class="wlWriterEditableSmartContent"><!--dotnetkickit--></div>
