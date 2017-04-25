@@ -7,64 +7,38 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Kevin Griffin | Developer, Trainer, Entreprenuer</title>
 
-    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
+        crossorigin="anonymous">
+
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/main.css" />
 </head>
 
 <body>
-    <div class="container">
-        <header class="clearfix">
-            <h1 id="logo"> Kevin Griffin</h1>
-            <nav id="top-menu">
-                <ul>
-                    <li><a href="#">Articles</a></li>
-                    <li><a href="#">Hire Me</a></li>
-                    <li><a href="#">Speaking</a></li>
-                </ul>
-            </nav>
-            <ul id="et-social-icons">
-                <li class="et-social-icon et-social-facebook">
-                    <a href="https://www.facebook.com/currio.me" target="_blank"><span>Facebook</span></a>
-                </li>
-                <li class="et-social-icon et-social-twitter">
-                    <a href="https://twitter.com/pro_laur" target="_blank"><span>Twitter</span></a>
-                </li>
-                <li class="et-social-icon et-social-google">
-                    <a href="https://plus.google.com/u/0/+LaurIvan" target="_blank"><span>Google+</span></a>
-                </li>
-            </ul>
-        </header>
+    {{> header}}
+
+    <div class="container" id="main">
+        <div class="row">
+            <div class="col">
+                <h2>Does your project need a swift kick?</h2>
+                
+                <p>Hello there! My name is Kevin Griffin. I run a software consultancy based out of Chesapeake, VA specializing helping businesses and teams get that "Swift Kick" in the butt they need.</p>
+
+                <h3>Twilio Blueprint</h3>
+                <p>I am the author of <a href="https://twilioblueprint.com">Twilio Blueprint</a>, a guide for software developers who want to design and implement voice and SMS integration into their applications through the use of the <a href="https://twilio.com">Twilio</a> platform.</p>
+                
+                <h3>RevolutionConf</h3>
+                <p>I am a co-organizer for <a href="https://revolutionconf.com">RevolutionConf</a>, a 2-day platform and technology agnostic developer conference held in Virginia Beach, VA.</p>
+                <p>Currently, we are ramping up for our second year on June 1-2, 2017.  We are looking forward to 500 attendees, 50 amazing speakers, 4 workshops, and a luau on the beach!</p>
+
+                <h3>RevolutionVA</h3>
+                <p>My work on great conferences like RevolutionConf, Hampton Roads DevFest, and Camp Azure is all because of my contributions to RevolutionVA, a 501c3 non-profit designed to help promote developer education and careers in Virginia.  You can learn more about RevolutionVA at <a href="https://revolutionva.org">https://revolutionva.org</a> </p>
+            </div>  
+            <div class="col-4">
+                {{> sidebar }}
+            </div>
+        </div>
     </div>
-
-    {{!--
-    <div id="navbar">
-        <div id="navbar_left">
-            <h1>Kevin Griffin</h1>
-            <h2>Developer, Trainer, Entreprenuer</h2>
-        </div>
-        <div id="navbar_right">
-            <nav>
-                <ul>
-                    <li>Articles</li>
-                    <li>Hire Me</li>
-                    <li>Github</li>
-                    <li>Twitter</li>
-                </ul>
-            </nav>
-        </div>
-        <div class="clearfix"></div>
-    </div>--}}
-
-
-    <ul>
-        {{#each page.posts.data as |post|}}
-        <li>
-            <a href="{{url_for post.path}}">{{post.title}}</a>
-        </li>
-        {{/each}}
-    </ul>
-    <a href="{{url_for page.next_link}}">Next</a> {{#each site.pages as |page|}}
-    <a href="{{url_for page.path}}">{{page.title}}</a> {{/each}}
 </body>
 
 </html>
