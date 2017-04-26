@@ -1,12 +1,8 @@
 ---
 title: Are we too dependent on the Internet?
-tags: |-
-
-  - bing
-  - books
-  - google
-  - internet
 permalink: are-we-too-dependent-on-the-internet
+categories: 
+  - deepthoughts
 id: 647
 updated: '2010-01-19 06:00:00'
 date: 2010-01-19 06:00:00

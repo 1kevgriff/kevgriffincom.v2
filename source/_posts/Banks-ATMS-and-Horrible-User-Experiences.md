@@ -1,13 +1,8 @@
 ---
 title: 'Banks, ATMS, and Horrible User Experiences'
-tags: |-
-
-  - ui
-  - ux
-  - atm
-  - banking
-  - user experience
 permalink: banks-atms-and-horrible-user-experiences
+categories: 
+  - deepthoughts
 id: 778
 updated: '2015-08-20 21:52:06'
 date: 2015-08-03 09:18:46

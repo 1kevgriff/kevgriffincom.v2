@@ -1,27 +1,143 @@
-<header>
-    <div class="container">
-        <nav class="navbar navbar-light navbar-toggleable-md">
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
-                aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <a class="navbar-brand" href="/">Kevin Griffin</a>
-            <div class="collapse navbar-collapse" id="navbarCollapse">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item">
-                        <a class="nav-link" href="/articles">Articles</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/speaking">Speaking</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/hire">Hire Me</a>
-                    </li>
-                </ul>
-                <div class="mt-2 mt-md-0">
-                    <a href="#" class="social-icons"><i class="fa fa-twitter"></i></a>
-                    <a href="#" class="social-icons"><i class="fa fa-github"></i></a>
+<!-- header-container start -->
+<div class="header-container">
+
+
+    <!-- header-top start -->
+    <!-- classes:  -->
+    <!-- "dark": dark version of header top e.g. class="header-top dark" -->
+    <!-- "colored": colored version of header top e.g. class="header-top colored" -->
+    <!-- ================ -->
+    <div class="header-top  ">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-3 col-sm-6 col-md-9">
+                    <!-- header-top-first start -->
+                    <!-- ================ -->
+                    <div class="header-top-first clearfix">
+                        <ul class="social-links circle small clearfix hidden-xs">
+                            <li class="twitter"><a target="_blank" href="https://www.twitter.com/1kevgriff"><i class="fa fa-twitter"></i></a></li>
+                            <li class="linkedin"><a target="_blank" href="httsp://www.linkedin.com/in/1kevgriff"><i class="fa fa-linkedin"></i></a></li>
+                            <li class="googleplus"><a target="_blank" href="https://plus.google.com//+KevinGriffinDeveloper"><i class="fa fa-google-plus"></i></a></li>
+                            <li class="youtube"><a target="_blank" href="https://www.youtube.com/c/KevinGriffinDeveloper"><i class="fa fa-youtube-play"></i></a></li>
+                        </ul>
+                        <div class="social-links hidden-lg hidden-md hidden-sm circle small">
+                            <div class="btn-group dropdown">
+                                <button type="button" class="btn dropdown-toggle" data-toggle="dropdown"><i class="fa fa-share-alt"></i></button>
+                                <ul class="dropdown-menu dropdown-animation">
+                                    <li class="twitter"><a target="_blank" href="https://www.twitter.com/1kevgriff"><i class="fa fa-twitter"></i></a></li>
+                                    <li class="linkedin"><a target="_blank" href="httsp://www.linkedin.com/in/1kevgriff"><i class="fa fa-linkedin"></i></a></li>
+                                    <li class="googleplus">
+                                        <a target="_blank" href="https://plus.google.com//+KevinGriffinDeveloper"><i class="fa fa-google-plus"></i></a>
+                                    </li>
+                                    <li class="youtube">
+                                        <a target="_blank" href="https://www.youtube.com/c/KevinGriffinDeveloper"><i class="fa fa-youtube-play"></i></a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- header-top-first end -->
                 </div>
-        </nav>
+                <div class="col-xs-9 col-sm-6 col-md-3">
+
+                </div>
+            </div>
         </div>
-</header>
+    </div>
+    <!-- header-top end -->
+
+    <!-- header start -->
+    <!-- classes:  -->
+    <!-- "fixed": enables fixed navigation mode (sticky menu) e.g. class="header fixed clearfix" -->
+    <!-- "dark": dark version of header e.g. class="header dark clearfix" -->
+    <!-- "full-width": mandatory class for the full-width menu layout -->
+    <!-- "centered": mandatory class for the centered logo layout -->
+    <!-- ================ -->
+    <header class="header centered fixed    clearfix">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <!-- header-first start -->
+                    <!-- ================ -->
+                    <div class="header-first clearfix">
+                        <!-- logo -->
+                        <div id="logo" class="logo">
+                            <a href="/">Kevin Griffin</a>
+                        </div>
+                    </div>
+                    <!-- header-first end -->
+
+                </div>
+                <div class="col-md-12">
+
+                    <!-- header-second start -->
+                    <!-- ================ -->
+                    <div class="header-second clearfix">
+
+                        <!-- main-navigation start -->
+                        <!-- classes: -->
+                        <!-- "onclick": Makes the dropdowns open on click, this the default bootstrap behavior e.g. class="main-navigation onclick" -->
+                        <!-- "animated": Enables animations on dropdowns opening e.g. class="main-navigation animated" -->
+                        <!-- "with-dropdown-buttons": Mandatory class that adds extra space, to the main navigation, for the search and cart dropdowns -->
+                        <!-- ================ -->
+                        <div class="main-navigation animated ">
+
+                            <!-- navbar start -->
+                            <!-- ================ -->
+                            <nav class="navbar navbar-default" role="navigation">
+                                <div class="container-fluid">
+
+                                    <!-- Toggle get grouped for better mobile display -->
+                                    <div class="navbar-header">
+                                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+													<span class="sr-only">Toggle navigation</span>
+													<span class="icon-bar"></span>
+													<span class="icon-bar"></span>
+													<span class="icon-bar"></span>
+												</button>
+
+                                    </div>
+
+                                    <!-- Collect the nav links, forms, and other content for toggling -->
+                                    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                                        <!-- main-menu -->
+                                        <ul class="nav navbar-nav navbar-right">
+
+                                            <!-- mega-menu start -->
+                                            <li class="active">
+                                                <a href="/">Home</a>
+                                            </li>
+                                            <li class="active">
+                                                <a href="/articles">Articles</a>
+                                            </li>
+                                            <li class="active">
+                                                <a href="/speaking">Speaking</a>
+                                            </li>
+                                            <li class="active">
+                                                <a href="/hire">Hire Me</a>
+                                            </li>
+                                            <!-- mega-menu end -->
+
+                                        </ul>
+                                        <!-- main-menu end -->
+
+                                    </div>
+
+                                </div>
+                            </nav>
+                            <!-- navbar end -->
+
+                        </div>
+                        <!-- main-navigation end -->
+                    </div>
+                    <!-- header-second end -->
+
+                </div>
+            </div>
+        </div>
+
+    </header>
+    <!-- header end -->
+</div>
+<!-- header-container end -->

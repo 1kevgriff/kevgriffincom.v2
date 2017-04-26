@@ -1,9 +1,7 @@
 ---
 title: Anatomy of an XNA Application
-tags: |-
-
-  - Game Development
-  - xna
+categories: 
+  - development
 permalink: anatomy-of-an-xna-application
 id: 573
 updated: '2009-01-04 06:54:44'
