@@ -1,10 +1,9 @@
 ---
 title: The Non-Techie Guide to Source Control
 permalink: the-non-techie-guide-to-source-control
-id: 757
-updated: '2015-03-21 11:50:50'
+categories:
+  - Deep Thoughts
 date: 2014-10-30 16:45:19
-tags:
 ---
 
 _Update 1: Brandon pointed out a mistake in my math.  Adjusted to reflect his comments._

@@ -1,10 +1,9 @@
 ---
 title: 'Managing Your User Group: Locations'
 permalink: user-group-locations
-id: 776
-updated: '2015-07-02 15:16:58'
+categories:
+  - Community, User Groups, and Conferences
 date: 2015-07-02 14:21:32
-tags:
 ---
 
 A common misconception a lot of new user group leaders have is that they need the _perfect_ location for their user group.  While that thought is partially correct, there are a lot of things to consider when trying to find a location for your group.

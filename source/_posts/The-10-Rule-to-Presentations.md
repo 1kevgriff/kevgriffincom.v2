@@ -1,12 +1,8 @@
 ---
 title: The 10% Rule to Presentations
-tags: |-
-
-  - presentations
-  - learning
+categories:
+  - Deep Thoughts
 permalink: the-10-rule-to-presentations
-id: 785
-updated: '2016-03-24 09:48:35'
 date: 2016-03-24 09:18:59
 ---
 

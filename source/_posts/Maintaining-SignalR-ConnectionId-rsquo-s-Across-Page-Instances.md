@@ -1,14 +1,8 @@
 ---
 title: Maintaining SignalR ConnectionId&rsquo;s Across Page Instances
-tags: |-
-
-  - connectionid
-  - hub
-  - jquery
-  - signalr
+categories:
+  - Development
 permalink: maintaining-signalr-connectionids-across-page-instances
-id: 705
-updated: '2013-02-28 05:26:53'
 date: 2012-02-15 10:00:52
 ---
 

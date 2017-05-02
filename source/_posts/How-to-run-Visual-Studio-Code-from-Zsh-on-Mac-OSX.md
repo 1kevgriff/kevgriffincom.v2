@@ -1,16 +1,8 @@
 ---
 title: How to run Visual Studio Code from Zsh on Mac OSX
-tags: |-
-
-  - Visual Studio Code
-  - Mac
-  - OSX
-  - Terminal
-  - aspnet
-  - Zsh
+categories:
+  - Development
 permalink: how-to-run-visual-studio-code-from-zsh-on-mac-osx
-id: 773
-updated: '2016-06-24 09:03:48'
 date: 2015-05-07 13:27:04
 ---
 

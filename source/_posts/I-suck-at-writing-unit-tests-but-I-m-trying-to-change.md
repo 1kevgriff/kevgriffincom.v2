@@ -1,10 +1,9 @@
 ---
 title: 'I suck at writing unit tests, but I''m trying to change'
 permalink: i-suck-at-writing-unit-tests
-id: 766
-updated: '2015-02-26 22:32:23'
+categories:
+  - Deep Thoughts
 date: 2015-02-26 22:25:55
-tags:
 ---
 
 *65 tests*

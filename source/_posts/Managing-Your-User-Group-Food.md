@@ -1,13 +1,8 @@
 ---
 title: 'Managing Your User Group: Food'
-tags: |-
-
-  - user group
-  - user group tips
-  - food
+categories:
+  - Community, User Groups, and Conferences
 permalink: user-group-food
-id: 783
-updated: '2015-10-15 09:52:02'
 date: 2015-10-13 18:45:40
 ---
 

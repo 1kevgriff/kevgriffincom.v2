@@ -1,16 +1,8 @@
 ---
 title: How to run Visual Studio Code from Terminal on Mac OSX
-tags: |-
-
-  - Visual Studio Code
-  - Mac
-  - OSX
-  - Terminal
-  - aspnet
-  - Zsh
+categories:
+  - Development
 permalink: how-to-run-visual-studio-code-from-terminal-on-mac-osx
-id: 772
-updated: '2016-06-24 09:04:29'
 date: 2015-05-07 13:20:28
 ---
 

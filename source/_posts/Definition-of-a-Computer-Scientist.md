@@ -1,10 +1,9 @@
 ---
 title: Definition of a Computer Scientist
 permalink: definition-of-a-computer-scientist
-id: 587
-updated: '2009-03-04 15:26:24'
+categories:
+  - Deep Thoughts
 date: 2009-03-04 15:26:24
-tags:
 ---
 
 What is a computer scientist?  Google gives the definition: a scientist who specializes in the theory of computation and the design of computers.  In most of our minds, a computer scientist is a person that builds computer systems.  More recognizable names (at least in terms of what a person with a computer science degree would be hired for) for a computer scientist would be developer, coder, software engineer, or software architect.  A lot of people will argue with me that computer scientist is more than just a coder, and I would fully agree.  Although, when a person wants to be a software developer, they are forced most of the time into a computer science program, as it's the best way for they to obtain the skills required to build large software systems.

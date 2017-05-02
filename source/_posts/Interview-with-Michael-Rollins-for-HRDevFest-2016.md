@@ -1,14 +1,8 @@
 ---
 title: Interview with Michael Rollins for HRDevFest 2016
-tags: |-
-
-  - hrdevfest
-  - interview
-  - mobile
-  - drones
+categories:
+  - Community, User Groups, and Conferences
 permalink: interview-with-michael-rollins-for-hrdevfest-2016
-id: 792
-updated: '2016-09-01 11:01:26'
 date: 2016-09-01 10:56:33
 ---
 

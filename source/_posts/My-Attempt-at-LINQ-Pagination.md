@@ -1,13 +1,8 @@
 ---
 title: My Attempt at LINQ Pagination
-tags: |-
-
-  - entity framework
-  - extension methods
-  - linq
+categories:
+  - Development
 permalink: my-attempt-at-linq-pagination
-id: 624
-updated: '2009-10-16 06:00:10'
 date: 2009-10-16 06:00:10
 ---
 

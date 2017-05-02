@@ -1,12 +1,8 @@
 ---
 title: Non-Tech Factors to Consider When Choosing Your Tech Stack
-tags: |-
-
-  - ASP.NET
-  - soft skills
+categories:
+  - Deep Thoughts
 permalink: non-tech-factors-to-consider-when-choosing-your-tech-stack
-id: 786
-updated: '2016-05-12 10:45:08'
 date: 2016-05-10 21:33:01
 ---
 

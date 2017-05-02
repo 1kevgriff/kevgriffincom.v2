@@ -1,10 +1,9 @@
 ---
 title: One Simple Rule for Successful Consulting
 permalink: one-simple-rule-for-successful-consulting
-id: 750
-updated: '2014-09-03 00:17:04'
+categories:
+  - Deep Thoughts
 date: 2014-09-03 00:16:57
-tags:
 ---
 
 When you're suggesting business decisions for a client, think about it this way:

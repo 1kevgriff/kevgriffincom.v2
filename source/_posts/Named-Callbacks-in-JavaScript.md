@@ -1,12 +1,8 @@
 ---
 title: Named Callbacks in JavaScript
-tags: |-
-
-  - callbacks
-  - javascript
+categories:
+  - Development
 permalink: named-callbacks-in-javascript
-id: 734
-updated: '2013-08-06 06:14:54'
 date: 2013-08-06 06:30:49
 ---
 

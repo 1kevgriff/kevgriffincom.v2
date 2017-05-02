@@ -1,9 +1,7 @@
 ---
 title: Learn about Windows 7 Task Dialogs
-tags: |-
-
-  - .NET
-  - Windows 7
+categories:
+  - Development
 permalink: learn-about-windows-7-task-dialogs
 id: 635
 updated: '2009-12-01 07:00:00'

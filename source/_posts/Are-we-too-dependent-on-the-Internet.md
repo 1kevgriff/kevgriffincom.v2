@@ -2,7 +2,7 @@
 title: Are we too dependent on the Internet?
 permalink: are-we-too-dependent-on-the-internet
 categories: 
-  - deepthoughts
+  - Deep Thoughts
 id: 647
 updated: '2010-01-19 06:00:00'
 date: 2010-01-19 06:00:00

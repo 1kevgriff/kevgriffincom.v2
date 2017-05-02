@@ -1,10 +1,9 @@
 ---
 title: 'Managing Your User Group: Sponsor Relationships'
 permalink: user-group-sponsor-relationship
-id: 762
-updated: '2015-05-01 14:10:44'
+categories:
+  - Community, User Groups, and Conferences
 date: 2015-01-26 11:58:38
-tags:
 ---
 
 As a user group leader, you might have this feeling that you need to get sponsors for your user group.  **This is a common feeling!**  

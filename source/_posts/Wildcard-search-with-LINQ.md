@@ -1,12 +1,8 @@
 ---
 title: Wildcard search with LINQ
-tags: |-
-
-  - linq
-  - wildcard
+categories:
+  - Development
 permalink: wildcard-search-with-linq
-id: 596
-updated: '2009-04-21 09:17:26'
 date: 2009-04-21 09:17:26
 ---
 

@@ -1,13 +1,8 @@
 ---
 title: The Zen of Free Labor
-tags: |-
-
-  - free
-  - labor
-  - projects
+categories:
+  - Deep Thoughts
 permalink: the-zen-of-free-labor
-id: 602
-updated: '2009-06-01 04:00:06'
 date: 2009-06-01 04:00:06
 ---
 

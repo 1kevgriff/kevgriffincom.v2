@@ -1,12 +1,8 @@
 ---
 title: Books I Read in 2016
-tags: |-
-
-  - books
-  - reading
+categories:
+  - Reflection
 permalink: books-i-read-in-2016
-id: 794
-updated: '2017-01-04 10:35:12'
 date: 2016-12-30 08:01:38
 ---
 

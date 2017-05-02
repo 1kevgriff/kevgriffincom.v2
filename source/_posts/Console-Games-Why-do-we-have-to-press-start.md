@@ -1,16 +1,8 @@
 ---
 title: 'Console Games: Why do we have to press start?'
-tags: |-
-
-  - Game Development
-  - ps3
-  - start button
-  - twitter
-  - xbox
-  - xna
 permalink: console-games-why-do-we-have-to-press-start
-id: 643
-updated: '2010-01-05 06:00:00'
+categories:
+  - Development
 date: 2010-01-05 06:00:00
 ---
 

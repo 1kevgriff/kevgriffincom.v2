@@ -1,15 +1,8 @@
 ---
 title: Preloading Multiple Audio Tags in Internet Explorer 9
-tags: |-
-
-  - audio
-  - chrome
-  - html5
-  - ie
-  - internet explorer
+categories:
+  - Development
 permalink: preloading-multiple-audio-tags-in-internet-explorer-9
-id: 717
-updated: '2012-11-01 17:48:12'
 date: 2012-11-02 06:00:59
 ---
 

@@ -1,12 +1,8 @@
 ---
 title: Enhancing Your Applications For Windows 7
-tags: |-
-
-  - developer fusion
-  - win7
+categories:
+  - Development
 permalink: enhancing-your-applications-for-windows-7
-id: 634
-updated: '2009-11-17 09:36:34'
 date: 2009-11-17 09:36:34
 ---
 

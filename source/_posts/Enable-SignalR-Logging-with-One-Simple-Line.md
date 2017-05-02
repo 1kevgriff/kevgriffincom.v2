@@ -1,14 +1,8 @@
 ---
 title: Enable SignalR Logging with One Simple Line
-tags: |-
-
-  - ASP.NET
-  - c#
-  - javascript
-  - signalr
+categories:
+  - Development
 permalink: signalr-logging
-id: 780
-updated: '2015-08-28 23:35:31'
 date: 2015-08-28 23:26:42
 ---
 

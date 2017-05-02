@@ -1,10 +1,9 @@
 ---
 title: Paying Attention
 permalink: paying-attention
-id: 777
-updated: '2015-07-27 08:34:16'
 date: 2015-07-23 06:43:54
-tags:
+categories:
+  - Deep Thoughts
 ---
 
 Last week I did a training gig for a great group of folks out on the west coast.  I worked from the comfort of my home office, and presented all the material remotely.  

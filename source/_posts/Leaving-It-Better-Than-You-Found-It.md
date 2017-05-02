@@ -1,14 +1,8 @@
 ---
 title: Leaving It Better Than You Found It
-tags: |-
-
-  - bugs
-  - development
-  - hacks
-  - metaphor
+categories:
+  - Deep Thoughts
 permalink: leaving-it-better-than-you-found-it
-id: 650
-updated: '2010-01-26 06:00:00'
 date: 2010-01-26 06:00:00
 ---
 

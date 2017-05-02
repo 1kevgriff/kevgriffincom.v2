@@ -1,10 +1,9 @@
 ---
 title: 'Exploring C# 7.0: Out Variables'
 permalink: exploring-csharp70-out-variables
-id: 793
-updated: '2016-11-08 18:53:15'
+categories:
+  - Development
 date: 2016-11-08 18:41:48
-tags:
 ---
 
 _In this series, I want to explore a couple of the new C# 7.0 features coming down the pipeline.  As with most things, I am working with preview bits, so these features are not guaranteed to work the same way in production._

@@ -2,7 +2,7 @@
 title: A Diet Programmers Can Relate To
 permalink: a-diet-programmers-can-relate-to
 categories: 
-  - health
+  - Health
 id: 583
 updated: '2009-02-06 06:52:21'
 date: 2009-02-06 06:52:21

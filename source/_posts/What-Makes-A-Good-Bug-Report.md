@@ -1,10 +1,7 @@
 ---
 title: What Makes A Good Bug Report?
-tags: |-
-
-  - bug
-  - expectations
-  - reports
+categories:
+  - Development
 permalink: what-makes-a-good-bug-report
 id: 618
 updated: '2009-09-23 06:00:39'

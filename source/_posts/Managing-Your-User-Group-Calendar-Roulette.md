@@ -1,10 +1,9 @@
 ---
 title: 'Managing Your User Group: Calendar Roulette'
 permalink: calendar-roulette
-id: 768
-updated: '2015-03-06 22:54:28'
+categories:
+  - Community, User Groups, and Conferences
 date: 2015-03-06 22:39:16
-tags:
 ---
 
 One trait of successful user groups is don't play calendar roulette.  Meaning: they chose a time or day each month to hold the group meeting.

@@ -1,9 +1,7 @@
 ---
 title: If You Reach Just One Person
-tags: |-
-
-  - community
-  - jquery
+categories:
+  - Deep Thoughts
 permalink: if-you-reach-just-one-person
 id: 660
 updated: '2010-03-29 06:00:00'

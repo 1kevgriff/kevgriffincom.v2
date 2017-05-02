@@ -1,10 +1,10 @@
 ---
 title: 'Review: 7 Recurring Revenue Recipes for Freelancers'
 permalink: review-7-recurring-revenue-recipes-for-freelancers
-id: 764
+categories:
+  - Reviews
 updated: '2015-02-16 09:11:50'
 date: 2015-02-16 08:55:19
-tags:
 ---
 
 During a flight from Norfok to Charlotte, I had the opportunity to read [Ryan Castillo's](https://twitter.com/rmcastil) new book [7 Recurring Revenue Recipes for Freelancers](http://ryancastillo.org/7-recipes-recurring-revenue/).

@@ -1,10 +1,7 @@
 ---
 title: Simple HTML Formatting in Sublime Text
-tags: |-
-
-  - formatting
-  - html
-  - sublime text
+categories:
+  - Development
 permalink: simple-html-formatting-in-sublime-text
 id: 730
 updated: '2013-02-27 05:17:35'

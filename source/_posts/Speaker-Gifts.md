@@ -1,11 +1,8 @@
 ---
 title: Speaker Gifts
-tags: |-
-
-  - user group tips
+categories:
+  - Community, User Groups, and Conferences
 permalink: speaker-gifts
-id: 760
-updated: '2015-01-14 13:56:16'
 date: 2015-01-13 17:47:38
 ---
 

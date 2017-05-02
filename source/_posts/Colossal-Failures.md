@@ -1,12 +1,8 @@
 ---
 title: Colossal Failures
-tags: |-
-
-  - failures
-  - mythbusters
+categories:
+  - Deep Thoughts
 permalink: colossal-failures
-id: 655
-updated: '2010-03-02 06:00:00'
 date: 2010-03-02 06:00:00
 ---
 

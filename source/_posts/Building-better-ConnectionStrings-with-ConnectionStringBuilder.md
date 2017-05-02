@@ -1,15 +1,8 @@
 ---
 title: Building better ConnectionStrings with ConnectionStringBuilder
-tags: |-
-
-  - connection string
-  - entity framework
-  - oledb
-  - sql
-  - stringbuilder
+categories:
+  - Development
 permalink: building-better-connectionstrings-with-connectionstringbuilder
-id: 691
-updated: '2011-02-14 05:00:02'
 date: 2011-02-14 05:00:02
 ---
 

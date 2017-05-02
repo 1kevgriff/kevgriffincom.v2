@@ -1,12 +1,8 @@
 ---
 title: Moving on to Greener Pastures
-tags: |-
-
-  - antech
-  - componentone
+categories:
+  - Deep Thoughts
 permalink: moving-on-to-greener-pastures
-id: 697
-updated: '2011-05-25 06:00:00'
 date: 2011-05-25 06:00:00
 ---
 

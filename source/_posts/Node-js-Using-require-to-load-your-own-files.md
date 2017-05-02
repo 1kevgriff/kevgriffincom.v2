@@ -1,14 +1,8 @@
 ---
 title: 'Node.js: Using require to load your own files'
-tags: |-
-
-  - javascript
-  - node.js
-  - npm
-  - require
+categories:
+  - Development
 permalink: node-js-using-require-to-load-your-own-files
-id: 724
-updated: '2012-12-29 18:50:28'
 date: 2012-12-31 06:00:31
 ---
 

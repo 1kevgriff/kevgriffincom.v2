@@ -1,13 +1,8 @@
 ---
 title: Specifying Visual Studio Version in NPM Installs
-tags: |-
-
-  - node.js
-  - npm
-  - visual studio
+categories:
+  - Development
 permalink: specifying-visual-studio-version-in-npm-installs
-id: 733
-updated: '2015-05-21 13:33:44'
 date: 2013-05-14 06:34:08
 ---
 

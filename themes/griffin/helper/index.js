@@ -2,30 +2,53 @@ var _ = require('lodash');
 
 module.exports = function (hexo) {
   return {
-    recent_posts: function (count) {
-        options = {};
+    out: function (obj) {
+      console.log(JSON.stringify(obj));
+      return;
+    },
+    ifequals: function (conditional, value, options) {
 
-      // default options
-      options = _.extend({
-        count: count,
-        ulClass: 'recent_posts',
-        liClass: 'recent_post'
-      }, options);
+      console.log("Comparing");
 
-      // get last posts
-      var posts = this.site
-        .posts.sort('date', -1)
-        .limit(options.count);
+      if (conditional === value) {
+        return options.fn(this);
+      } else {
+        return options.inverse(this);
+      }
 
-      // build the list
-      var result = '<ul class="' + options.ulClass + '">';
-      var root = this.config.root;
+    },
+    sortByKey: function (array, key) {
+ 		/**
+		* Sorts array by a given key
+		* @function sort_by_key
+		* @memberof Handlebars.helpers
+		* @param {array} array - The data to sort.
+		* @param {string} key - The key to sort by.
+		* @see {@link http://stackoverflow.com/questions/8175093/simple-function-to-sort-an-array-of-objects}
+		* @returns {array}
+		*/
+      return _.sortBy(array, [key]);
+    },
+    filterCategories: function (array, name) {
+      console.log("Sorting " + name);
+      var results = _.filter(array, function (el){
+        var res = el.categories.find({ name: name});
 
-      posts.each(function (post) {
-        result += '<li class="' + options.liClass + '"><a href="' + root + post.path + '">' + post.title + '</a></li>';
+        if (res.length > 0){
+          return el;
+        }
       });
+      
+      return results;
+    },
+    showCategory: function (categories){
+      var cats = [];
+      categories.data.forEach(function(element) {
+        cats.push(element.name);
+      }, this);
 
-      result += '</ul>'
+      result = cats.join(", ");
+
       return result;
     }
   };

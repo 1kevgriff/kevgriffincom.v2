@@ -1,14 +1,8 @@
 ---
 title: How I'm Beating Email Addiction
-tags: |-
-
-  - email
-  - addiction
-  - inbox zero
-  - spam
+categories:
+  - Deep Thoughts
 permalink: beating-email-addiction
-id: 775
-updated: '2015-05-21 09:58:58'
 date: 2015-05-21 09:54:52
 ---
 

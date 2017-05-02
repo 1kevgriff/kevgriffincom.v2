@@ -1,12 +1,8 @@
 ---
 title: Open Source Mentality of Choosing Your Tech Stack
-tags: |-
-
-  - open source
-  - developer
+categories:
+  - Deep Thoughts
 permalink: open-source-mentality-of-choosing-your-tech-stack
-id: 788
-updated: '2016-07-07 23:20:03'
 date: 2016-07-04 16:06:21
 ---
 

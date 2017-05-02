@@ -1,12 +1,7 @@
 ---
 title: 'Review: Rollbase'
-tags: |-
-
-  - cad
-  - review
-  - rollbase
-  - rad
-  - progress software
+categories:
+  - Reviews
 permalink: rollbase
 id: 756
 updated: '2014-11-05 11:45:08'

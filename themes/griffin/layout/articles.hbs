@@ -116,13 +116,24 @@
                         <div class="separator-2"></div>
                         <!-- page-title end -->
 
-                        {{#each site.posts.data as |post|}}
+                        {{#each (sortByKey site.categories.data 'name') as |cat|}}
+                        <article class="blogpost">
+                            <header>
+                                <h2>{{cat.name}}</h2>
+                            </header>
+                            <ul>
+                                {{#each (filterCategories @root.site.posts.data cat.name) as |post|}}
+                                    <li><a href="{{url_for post.path}}">{{post.title}}</a></li>
+                                {{/each}}
+                            </ul>
+                        </article>
+                        {{/each}} {{!--{{#each site.posts.data as |post|}}
                         <article class="blogpost">
                             <header>
                                 <h2><a href="{{url_for post.path}}">{{post.title}}</a></h2>
                             </header>
                         </article>
-                        {{/each}}
+                        {{/each}}--}}
 
 
                     </div>

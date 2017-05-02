@@ -1,10 +1,9 @@
 ---
 title: 'MongoDB: Setting TTL on Documents'
 permalink: mongodb-setting-ttl-on-documents
-id: 753
-updated: '2015-08-29 13:44:39'
 date: 2014-10-13 14:08:05
-tags:
+categories:
+  - Development
 ---
 
 On some recent work I was doing with [Winsitter](http://winsitter.com), I needed an approach that would systematically remove documents after a specified period of time within MongoDB.

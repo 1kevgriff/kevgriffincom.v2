@@ -1,16 +1,9 @@
 ---
 title: 'Review: NCache by Alachisoft'
-tags: |-
-
-  - ncache
-  - review
-  - .NET
-  - c#
-  - cache
-  - caching
+categories:
+  - Reviews
 permalink: review-ncache
 id: 791
-updated: '2016-08-24 12:12:41'
 date: 2016-08-22 18:44:15
 ---
 

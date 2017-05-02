@@ -1,15 +1,8 @@
 ---
 title: My Defacto .gitignore file
-tags: |-
-
-  - git
-  - github
-  - gitignore
-  - source control
-  - visual studio
+categories:
+  - Development
 permalink: base-gitignore
-id: 719
-updated: '2012-12-01 04:31:05'
 date: 2012-11-12 10:37:23
 ---
 

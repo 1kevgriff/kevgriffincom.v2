@@ -1,16 +1,8 @@
 ---
 title: Using Unity for Dependency Injection with SignalR
-tags: |-
-
-  - dependency injection
-  - di
-  - inversion of control
-  - ioc
-  - signalr
-  - unity
+categories:
+    - Development
 permalink: using-unity-for-dependency-injection-with-signalr
-id: 726
-updated: '2013-01-17 05:14:45'
 date: 2013-01-08 06:00:31
 ---
 

@@ -1,15 +1,8 @@
 ---
 title: Online vs. Retail Stores
-tags: |-
-
-  - amazon
-  - online
-  - prices
-  - retail
-  - walmart
+categories:
+  - Deep Thoughts
 permalink: online-vs-retail-stores
-id: 663
-updated: '2010-04-19 06:00:00'
 date: 2010-04-19 06:00:00
 ---
 

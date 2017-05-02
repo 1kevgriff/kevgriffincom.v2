@@ -2,7 +2,7 @@
 title: '50 Ways to Avoid, Find and Fix ASP.NET Performance Issues'
 permalink: 50-ways-to-avoid-find-and-fix-asp-net-performance-issues
 categories: 
-  - selfpromotion
+  - Self Promotion
 id: 728
 updated: '2013-01-24 04:34:48'
 date: 2013-01-25 05:00:46

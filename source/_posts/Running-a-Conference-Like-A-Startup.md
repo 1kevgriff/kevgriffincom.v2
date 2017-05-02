@@ -1,10 +1,10 @@
 ---
 title: Running a Conference Like A Startup?
 permalink: running-a-conference-like-a-startup
+categories:
+  - Community, User Groups, and Conferences
 id: 739
-updated: '2014-02-23 21:57:40'
 date: 2014-02-23 21:57:40
-tags:
 ---
 
 I've worked with a lot of different events.  User groups, code camps, MADExpo (I'd link to it, but sadly the site went away a couple months ago), and others.

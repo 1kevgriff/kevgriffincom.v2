@@ -1,14 +1,8 @@
 ---
 title: 'No matter what you do: add value'
-tags: |-
-
-  - freelancing
-  - consulting
-  - clients
-  - referrals
+categories:
+  - Deep Thoughts
 permalink: no-matter-what-you-do-add-value
-id: 774
-updated: '2015-05-14 14:19:42'
 date: 2015-05-14 11:38:29
 ---
 
