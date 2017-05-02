@@ -1,6 +1,6 @@
 {
-  "name": "hexo-site",
-  "version": "0.0.0",
+  "name": "kevgriffincom  ",
+  "version": "2.0.0",
   "private": true,
   "hexo": {
     "version": "3.3.1"
@@ -19,5 +19,10 @@
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0"
+  },
+  "scripts":{
+    "start": "hexo server -s",
+    "prestart": "hexo generate",
+    "docker": "docker push 1kevgriff/kevgriffincom:latest"
   }
 }
