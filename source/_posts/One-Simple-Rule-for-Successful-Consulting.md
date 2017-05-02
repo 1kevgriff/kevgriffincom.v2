@@ -2,7 +2,7 @@
 title: One Simple Rule for Successful Consulting
 permalink: one-simple-rule-for-successful-consulting
 categories:
-  - Deep Thoughts
+  - Business
 date: 2014-09-03 00:16:57
 ---
 

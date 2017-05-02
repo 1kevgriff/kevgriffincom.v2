@@ -1,10 +1,7 @@
 ---
 title: 'Powershell: How to recursively delete files based of file extension?'
-tags: |-
-
-  - powershell
-  - git
-  - command line
+categories:
+  - Development
 permalink: powershell-how-to-recursively-delete-files-based-of-file-extension
 id: 789
 updated: '2016-07-15 14:23:38'

@@ -27,8 +27,6 @@ So what are you waiting for?  Go [get on the list](http://757devcon.com), and I'
 
 I'd love to hear your questions and thoughts.  Post them in the comments below.
 
-**Want more great content?  [Subscribe to my mailing list](http://eepurl.com/OM8kr)**
-
 
 
 

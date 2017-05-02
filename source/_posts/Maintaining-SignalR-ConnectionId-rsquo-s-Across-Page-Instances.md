@@ -55,6 +55,3 @@ Don’t forget to wire it up!  Add this to you Global.asax file under Applicati
 And you’re all set!  SignalR will now use your new ConnectionIdFactory to generate or reuse ConnectionIds.
 
 Enjoy!
-
-Kevin Griffin
-<a href="http://twitter.com/1kevgriff" target="_blank">@1kevgriff</a>
