@@ -22,7 +22,7 @@
   },
   "scripts":{
     "start": "hexo server -s",
-    "prestart": "hexo generate",
+    "prestart": "npm install -g hexo && hexo generate",
     "docker": "docker push 1kevgriff/kevgriffincom:latest"
   }
 }
