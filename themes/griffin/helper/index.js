@@ -30,24 +30,29 @@ module.exports = function (hexo) {
       return _.sortBy(array, [key]);
     },
     filterCategories: function (array, name) {
-      console.log("Sorting " + name);
-      var results = _.filter(array, function (el){
-        var res = el.categories.find({ name: name});
+      var results = _.filter(array, function (el) {
+        var res = el.categories.find({ name: name });
 
-        if (res.length > 0){
+        if (res.length > 0) {
           return el;
         }
       });
-      
+
       return results;
     },
-    showCategory: function (categories){
+    showCategory: function (categories) {
       var cats = [];
-      categories.data.forEach(function(element) {
-        cats.push(element.name);
-      }, this);
+      if (categories) {
+        categories.data.forEach(function (element) {
+          cats.push(element.name);
+        }, this);
+      }
 
-      result = cats.join(", ");
+      if (cats.length === 0) {
+        result = "Uncategorized";
+      } else {
+        result = cats.join(", ");
+      }
 
       return result;
     }
