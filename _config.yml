@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://kevgriffin.com
+url: https://kevgriffin.com
 root: /
 permalink: :title/
 permalink_defaults:
@@ -72,3 +72,13 @@ deploy:
   repo: https://kevgriff@kevgriffindotcom.scm.azurewebsites.net:443/kevgriffindotcom.git
   branch: master
   message: Site updated {{ now("YYYY-MM-DD HH:mm:ss") }}
+
+sitemap:
+    path: sitemap.xml
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+  hub:
+  content:
