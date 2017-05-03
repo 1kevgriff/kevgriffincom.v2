@@ -38,7 +38,7 @@ module.exports = function (hexo) {
         }
       });
 
-      return results;
+      return _.sortBy(results, ["date"]).reverse();
     },
     showCategory: function (categories) {
       var cats = [];

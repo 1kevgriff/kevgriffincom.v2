@@ -82,3 +82,21 @@ feed:
   limit: 0
   hub:
   content:
+
+html_minifier:
+  enable: true
+  ignore_error: false
+  exclude:
+
+css_minifier:
+  enable: true
+  exclude: 
+    - '*.min.css'
+
+js_minifier:
+  enable: true
+  mangle: true
+  output:
+  compress:
+  exclude: 
+    - '*.min.js'
