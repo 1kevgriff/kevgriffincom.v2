@@ -3,15 +3,22 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>{{page.title}} | Kevin Griffin | Developer, Trainer, Entreprenuer</title>
+    <title>{{page.title}} | Kevin Griffin | Developer, Trainer, Entrepreneur</title>
 
     <!-- Mobile Meta -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <meta property="og:title" content="{{page.title}} | Kevin Griffin | Developer, Trainer, Entrepreneur" />
+    <meta property="og:url" content="{{page_url url}}" />
+    <meta property="og:type" content="article" />
 
-{{> styles}}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{{page.title}} | Kevin Griffin | Developer, Trainer, Entrepreneur" />
+    <meta name="twitter:description" content="{{page.excerpt}}" />
+    <meta name="twitter:url" content="{{page_url url}}" />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico"> {{> styles}}
 
 </head>
 
@@ -79,7 +86,7 @@
     </div>
     <!-- page-wrapper end -->
 
-{{> scripts}}
+    {{> scripts}}
 </body>
 
 </html>

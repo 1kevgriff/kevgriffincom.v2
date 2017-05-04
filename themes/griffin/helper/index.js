@@ -55,6 +55,9 @@ module.exports = function (hexo) {
       }
 
       return result;
+    },
+    page_url: function (path, options){
+      return this.url_for(path, options).replace(/index\.html$/, '');
     }
   };
 };

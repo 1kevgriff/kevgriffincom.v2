@@ -5,6 +5,8 @@ permalink: about-blog-posts
 categories:
     - Deep Thoughts
 ---
+After overhauling my personal site, I learned that I dislike the term `blog`.  Instead, I want to be more professional by writing `articles`.
+<!-- more --> 
 I just recently spent a couple days overhauling my personal site - or as I used to call it, my blog.
 
 That term `blog`...
