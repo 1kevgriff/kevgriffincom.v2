@@ -1,7 +1,7 @@
 ---
 title: My Attempt at LINQ Pagination
 categories:
-  - Development
+  - "Development - C#"
 permalink: my-attempt-at-linq-pagination
 date: 2009-10-16 06:00:10
 ---

@@ -1,7 +1,7 @@
 ---
 title: Using Unity for Dependency Injection with SignalR
 categories:
-    - Development
+    - "Development - ASP.NET"
 permalink: using-unity-for-dependency-injection-with-signalr
 date: 2013-01-08 06:00:31
 ---

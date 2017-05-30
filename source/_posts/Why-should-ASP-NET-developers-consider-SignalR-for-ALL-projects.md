@@ -1,7 +1,7 @@
 ---
 title: Why should ASP.NET developers consider SignalR for ALL projects?
 categories:
-    - Development
+    - "Development - ASP.NET"
 permalink: why-should-asp-net-developers-consider-signalr-for-all-projects
 date: 2012-07-09 07:00:07
 ---

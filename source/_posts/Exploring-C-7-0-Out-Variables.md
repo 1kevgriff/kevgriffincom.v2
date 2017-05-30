@@ -2,7 +2,7 @@
 title: 'Exploring C# 7.0: Out Variables'
 permalink: exploring-csharp70-out-variables
 categories:
-  - Development
+  - "Development - C#"
 date: 2016-11-08 18:41:48
 ---
 

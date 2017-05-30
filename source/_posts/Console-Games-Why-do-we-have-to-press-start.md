@@ -2,7 +2,7 @@
 title: 'Console Games: Why do we have to press start?'
 permalink: console-games-why-do-we-have-to-press-start
 categories:
-  - Development
+  - "Development - Game Development"
 date: 2010-01-05 06:00:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Wildcard search with LINQ
 categories:
-  - Development
+  - "Development - C#"
 permalink: wildcard-search-with-linq
 date: 2009-04-21 09:17:26
 ---

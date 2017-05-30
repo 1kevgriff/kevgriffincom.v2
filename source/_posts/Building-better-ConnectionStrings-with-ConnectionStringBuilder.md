@@ -1,7 +1,7 @@
 ---
 title: Building better ConnectionStrings with ConnectionStringBuilder
 categories:
-  - Development
+  - "Development - C#"
 permalink: building-better-connectionstrings-with-connectionstringbuilder
 date: 2011-02-14 05:00:02
 ---
