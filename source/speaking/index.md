@@ -15,7 +15,7 @@ I am always looking for new audiences to engage with.  I commonly speak on a var
 * Entreprenuership
 * and more!
 
-If your engagement is outside a five hour driving time of Chesapeake, VA, I humbly request some assistnance with travel.  As a fellow user group and conference organizer, I understand the limited funds for speakers but any assistance would be greatly appreciated.
+If your engagement is outside a five hour driving time of Chesapeake, VA, I humbly request some assistance with travel.  As a fellow user group and conference organizer, I understand the limited funds for speakers but any assistance would be greatly appreciated.
 
 ## Talks
 
