@@ -28,12 +28,68 @@ And the entire thing will be unfinished.  Part of my fun is insulating, drywalli
 
 This post will be a story of the work I do on my Shedquarters, and also an overview of the costs associated with owning it.
 
+## June 17th, 2017 - Area Prep
+Here is a *before* picture of where there Shedquarters is going to live.
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/ShedPlotBefore.jpg)
+
+Normally with these types of sheds, they can just be dropped on the ground or put up on blocks.  That's not a *bad* way to secure the shed, however, this area is prone to holding water when it rains.  Several *epic* rainstorms recently have caused me to reevaluate the foundation for my Shedquarters.
+
+Ideally, I would have just poured a concrete slab.  It's most likely to last the longest.  The *best* estimate I got was $1,900 and I'd have to wait 2-3 weeks before the work could be done.
+
+I'm not opposed to a bit of hard work, so I went for a compromise of pouring concrete piers.  Think "fence posts" but without the fence.
+
+Since these sheds are turnkey, I already knew where the piers should go.
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/ShedPlotMarkedOut.jpg)
+
+Each "line" is ~64 inches from the other lines and have 5 crosses in them.  A total of 15 piers.  
+
+Each "pier" will be 30 inches deep and 8 inches wide.  The exposed part of the pier will be 12 inches wide.  This should give me PLENTY of margin for measurement errors.
+
+## June 23th, 2017 - PERMITS
+I decided to get a permit.  Technically, it's required by the city even if the structure is non-permanent.  But this will add to the resale value of my home, and I need to add it to my homeowners insurance.  It's important that I make sure all the details are in place.
+
+There are three conditions I have to meet:
+
+1. Provide architectural drawings of the building
+2. Anchor the building to the ground
+3. Building has to have a flood vent
+
+Since my area is in a flood zone, it is possible (unprobable) that we could get SO MUCH RAIN that the shed floats away.  My shed requires 6 anchors total, one in each corner and two in the middle.
+
+Getting the drawings was fairly easy!  I just asked.  Since the company I'm using does this so often, the manager had them ready to go.  
+
+## June 24th, 2017 - HARD WORK
+Digging holes is hard work.  I threw money at the problem and rented a towable auger for a day.
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/TowableAuger.jpg)
+
+With the help of my dad and brother-in-law, we dug out 15 holes - each about 30 inches deep.  As I said above, the area is prone to holding water, so the holes filled up pretty quickly!  This process took about 30 minutes total.  Much easier than digging out holes by hand.
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/DiggingHoles.jpg)
+
+Once all the holes were dug, I cut concrete forms and leveled them all with the highest point in the area.  Then I dumped a bag or two of concrete into the holes.  Because of the amount of water in the holes, we didn't mix the concrete first.  If you dump the bag, it can be mixed *in* the hole - saving a ton of time and effort.  
+
+Along with concrete, I added 3 pieces of rebar to secure the bottom part of the pier to the footing itself.
+
+These had to sit overnight.
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/AllHolesDug.jpg)
+
+## June 25, 2017 - Pouring Footings
+After giving the base of the footings a day to dry, we poured the footings.  The concrete for these had to be mixed by hand
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/PouredAndReady.jpg)
+
+Next is the FUN part!  The shed delivery!
+
 # FAQ
 
 What are you questions?  Ask in the comments or on [Twitter](https://twitter.com/1kevgriff)
 
 # Costs
-How much does it cost to build out a Shedquarters?
+How much does it cost to build out a Shedquarters?  I'm trying to include Virginia Sales Tax as well (6.00%).
 <table class="table">
     <thead>
         <tr>
@@ -44,11 +100,39 @@ How much does it cost to build out a Shedquarters?
     <tbody>
         <tr>
             <td>Shed</td>
-            <td>$5796.08</td>
+            <td>$5,796.08</td>
+        </tr>
+        <tr>
+            <td>Building Permit (City of Chesapeake)</td>
+            <td>$91.74</td>
+        </tr>
+        <tr>
+            <td>Towable Auger Rental</td>
+            <td>$127.01</td>
+        </tr>
+        <tr>
+            <td>5 - Bags of Gravel</td>
+            <td>$20.35</td>
+        </tr>
+        <tr>
+            <td>45 - 2Ft Rebar</td>
+            <td>$88.25</td>
+        </tr>
+         <tr>
+            <td>4 - 48" Concrete Form Tubes</td>
+            <td>$67.71</td>
+        </tr>
+         <tr>
+            <td>39 - Bags of Concrete (60lbs)</td>
+            <td>$176.60</td>
+        </tr>
+        <tr>
+            <td>Misc Costs</td>
+            <td>$42.38</td>
         </tr>
         <tr>
             <td><strong>Total</strong></td>
-            <td><strong>$5796.08</strong></td>
+            <td><strong>$6,410.11</strong></td>
         </tr>
     </tbody>
 </table>
