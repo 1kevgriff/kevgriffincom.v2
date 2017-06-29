@@ -33,7 +33,7 @@ This recap is meant to give you an "insider" view of what went right and what co
 ## What went right
 
 **New Venue**  
-RevolutionConf 2016 was *designed* to fit 250 people into a space that would've been better for 200.  We wanted event spaces to feel "full".  This helped created the sense of popularity and was a huge help when pushing people to buy tickets in 2017.
+RevolutionConf 2016 was *designed* to fit 250 people into a space that would've been better for 200.  We wanted event spaces to feel "full".  This helped create the sense of popularity and was a huge help when pushing people to buy tickets in 2017.
 
 For RevolutionConf to grow, we needed a bigger venue.  Not just bigger, but something we could grow into more comfortably.  
 
@@ -43,6 +43,8 @@ Three major reasons for this venue:
 1. It was on the beach.  Our out of town attendees and speakers appreciated our closeness to the beach.  The team decided this had to be a continuing trend.  RevolutionConf would be a destination conference.  The type of place you bring your family to or take an extended vacation.
 2. It could eventually hold 500 people.  Looking at raw room sizes, 500 people was the largest we could comfortably go.  We wanted RevolutionConf to grow in 2017, but we didn't want to spend a major amount of our time in 2018 searching for a new venue.  We need space to grow.
 3. It didn't cost an arm and a leg.  Venues are relatively cheap.  Our entire venue was *free*.  However, you will get nailed with food and beverage minimums.  One day I'll write about the RevolutionConf budget, but I'll just say for now that the F&B costs tripled from 2016 to 2017 and we only grew by about 100 attendees.
+
+> EDIT: My co-organizer Erik brought up an excellent point that I didn't mention - minimums weren't our problem.  Per customer pricing for food was.  We only had at $20,000 minimum but our actual costs were well over $35,000.  We were lured in by lower minimums and shocked by actual costs.  This subject alone merits its own post.
 
 **A System For Everything and a Fantastic Team**  
 Our team consists of experienced event runners.  Part of what makes RevolutionConf happen so smoothly is that everyone has a job, and we're consistently checking in on each other.
@@ -56,6 +58,22 @@ Since this is not our first event, we already had systems in place for several c
 * Printables (posters, schedules, etc)
 * T-Shirts
 
+**Our Volunteers**  
+There is a lot of extra work that needs to be done around the conference.  Registration, passing out badges and t-shirts, making sure people know where lunch is, ensure that sessions start on time, getting A/V if something is wonky, etc etc.
+
+This year, we implemented a Call for Volunteers.  People could submit as to "why" they wanted volunteer at RevolutionConf (in exchange for a free ticket).
+
+Our volunteers were AMAZING.  We originally set up times for the volunteers to be "on", but all of them went above and beyond.
+
+**Scholarships**  
+Diversity is important to us.  But it really does cost money to send someone through RevolutionConf.  When the conference budget is tight to begin with, we needed to be creative in how we could make RevolutionConf accessible to everyone.  I believe our approach paid DIVIDENDS.
+
+First, every person that bought a ticket was given the option to donate money to our scholarship fund.  The average donation was $50.  This makes sense because that was the default value we set.  Next year, we'll bump that a bit.
+
+Second, we had budget for speaker travel and expenses.  Our social agreement with speakers was that if they chose to not use the travel budget (meaning they cover the costs of getting here), we would put that money towards scholarships.  Our speakers LOVED this idea, and many who had corporate backing gladly gave up their T&E.
+
+I can safely say we gave away 20 scholarships to RevolutionConf.  Boom.
+
 **Our A/V Team**  
 For technical events, having a good audio/video team is essential for success.  We lucked out by hiring [Elite Presentations](http://elite-presentations.com).  This team was as professional as you could get, and we did not have a single A/V problem they were not prepared for.
 
@@ -64,7 +82,7 @@ Every great event needs to have a dedicated networking time.  This year, we star
 
 Here is a drone overview of the event as it was kicking off.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ds27K9yYWCM" frameborder="0" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/Ds27K9yYWCM" frameborder="0" allowfullscreen></iframe>
 
 ## What could've been better
 
@@ -85,6 +103,15 @@ If you're running an event and need to explain why tech conferences break intern
 
 The venue has already announced plans to upgrade their internet - but we've taking additional precautions.  For next year, we've already warned our amazing A/V team to prepare for mesh wireless networks.  
 
+**Students**  
+Being a student is hard, especially if you don't quality for our diveristy scholarship.  To combat this, we provided stupid-cheap discount tickets - easily 50% less than the lowest cost to the public.  We sold maybe 2 student tickets.
+
+I'd like to think the diversity scholarship picked up most of the students that wanted to come - but I have another theory.
+
+Students don't see the value in events like this.  Because why would you want to spend two days in a conference center surrounded by people hiring for jobs and looking for dedicated folks.  /sarcasm
+
+Next year, we need to figure out a better way to promote WHY RevolutionConf is good for students.  
+
 **Hotels can't hotel**  
 This really seems like a recurrning issues.  Hotels are pretty bad at *being hotels*.  RevolutionConf had a block price for rooms - pretty dang good if you consider it is after Memorial Day and ON THE BEACH.  In order to support this price, we had to promise the hotel we would book a certain number of nights.
 
@@ -92,7 +119,7 @@ The *easiest* way to prevent having to pay the hotel for failure to commit is th
 
 Let's say you were an attendee needing a room.  You know there is a "RevolutionConf" rate.  Very few hotels have online booking for room blocks.  None of the venues we talked to supported that option - you have to call in to get the rate.
 
-No big deal, right?  If you called the national reservation line, they had NO idea what our conference was.  Several people asked us *how* to get the rate, and we though "call the hotel" was good enough.  We ended up having to direct people to the local hotel number in order to get the good rate.
+No big deal, right?  If you called the national reservation line, they had NO idea what our conference was.  Several people asked us *how* to get the rate, and we thought "call the hotel" was good enough.  We ended up having to direct people to the local hotel number in order to get the good rate.
 
 I don't know if there is a better way to deal with this issue, other than to just anticipate it.
 
@@ -112,4 +139,4 @@ Next year, we plan to rent a party bus or trolley (this IS Virginia Beach, after
 ## Kicking off next year
 RevolutionConf 2018 *is going to happen*.  The team is taking a well deserved break, and then we are pushing forward on planning this event.
 
-If you'd like to keep up to date with us: Follow us on [https://twitter.com/revconf](Twitter) or [https://facebook.com/revconf](Facebook).
+If you'd like to keep up to date with us: Follow us on [Twitter](https://twitter.com/revconf) or [Facebook](https://facebook.com/revconf).
