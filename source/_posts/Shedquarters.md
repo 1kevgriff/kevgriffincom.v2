@@ -84,6 +84,10 @@ After giving the base of the footings a day to dry, we poured the footings.  The
 
 Next is the FUN part!  The shed delivery!
 
+## July 10th, 2017 - Shed Delivery!
+
+## July 27th, 2017 - Interior prep
+
 # FAQ
 
 What are you questions?  Ask in the comments or on [Twitter](https://twitter.com/1kevgriff)
@@ -126,13 +130,41 @@ How much does it cost to build out a Shedquarters?  I'm trying to include Virgin
             <td>39 - Bags of Concrete (60lbs)</td>
             <td>$176.60</td>
         </tr>
+		<tr>
+			<td>Electrical Boxes (Home Depot)</td>
+			<td>$7.45</td>
+		</tr>
+		<tr>
+			<td>Electrical Boxes (Lowes)</td>
+			<td>$4.29</td>
+		</tr>
+		<tr>
+			<td>Anchors (city requirement)</td>
+			<td>$44.27</td>
+		</tr>
+		<tr>
+			<td>8 - LED Recessed Bulbs</td>
+			<td>$76.28</td>
+		</tr>
+		<tr>
+			<td>8 - Recessed Light Housings</td>
+			<td>$60.89</td>
+		</tr>
+		<tr>
+			<td>2 - LED Light Switches</td>
+			<td>$48.70</td>
+		</tr>
+		<tr>
+			<td>2x4 (Variety of Lengths)</td>
+			<td>$110.45</td>
+		</tr>
         <tr>
             <td>Misc Costs</td>
-            <td>$42.38</td>
+            <td>$61.56</td>
         </tr>
         <tr>
             <td><strong>Total</strong></td>
-            <td><strong>$6,410.11</strong></td>
+            <td><strong>$6,781.63</strong></td>
         </tr>
     </tbody>
 </table>
