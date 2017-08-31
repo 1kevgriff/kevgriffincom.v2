@@ -85,10 +85,50 @@ After giving the base of the footings a day to dry, we poured the footings.  The
 Next is the FUN part!  The shed delivery!
 
 ## July 10th, 2017 - Shed Delivery!
+FINALLY!  The Shedquarters came today!  After all the prep to ensure that we would have a stable foundation to put the shed on, this was the moment of truth.
 
-## July 27th, 2017 - Interior prep
+The shed showed up on my driveway!
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/ShedDelivery.jpg)
+
+The entire process took about 20 minutes.  There was a team of 3 guys, and they backed the shed into my backyard and dropped it on the footings I had poured.  And guess what, the footings were near perfect!
+
+Here's a video of the dropping process:
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/79ZTBzXowrM?ecver=1" frameborder="0" allowfullscreen></iframe>
+
+## August 27th - Progress on the interior
+I had several weeks in August that I wasn't able to work on the shed, but progress has been coming along smoothly.
+
+There are three major things that got done in the Shedquarters.
+
+First, we ran electrical wiring throughout the entire building.  Because outlets are prime real estate, I opted to have as many as I could.
+
+Soon, my electrician is going to run a 100 amp subfeed from my house out to the shed.  This subfeed will run two circuits for outlets, circuits for my AC and heating unit, and circuits for exterior lighting and outlets.
+
+To test the electrical outlets, we wired up up a heavy duty extension cord to "plug" the shed into my house.  Works great until you blow a breaker once or twice.  At least it's temporary.  
+
+We also had to install 2x4 beams across the roof to hang drywall from.  Here is a picture of the completed work:
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/ShedFloorBeams.jpg)
+
+Once the beams were in, we could hang the recessed LED lights I bought.  I'll have 8, in total, plus a ceiling fan in the middle of the room.  These LEDs throw a ton of light, and do a great job of filtering it across everywhere.
+
+![](https://griffcdn.blob.core.windows.net/kevgriffinpublic/shedquarters/ShedLighting.jpg)
+
+Next step - ETHERNET and real power.
+
 
 # FAQ
+
+## Did you a permit?
+
+According to the city, I did need a permit.  The entire process was painless.  I told the building permits people at city hall what I was doing, and they directed me exactly where I needed to go.  A couple bucks later - I'm done.  After the shed was installed, I had to anchor it and call the city back out to do the final inspection.  That process was all online, and literally took 5 minutes when the guy got here.  Most of that was chatting about how awesome my Shedquarters is going to be.
+
+## Do you have an HOA (Homeowners Association)?
+
+HECK NO!  I won't go into the pros and cons of a HOA - but I prefer not having to ask permission for what I want to do on my property.
+
 
 What are you questions?  Ask in the comments or on [Twitter](https://twitter.com/1kevgriff)
 
