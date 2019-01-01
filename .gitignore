@@ -4,6 +4,7 @@
 
 ### Hexo ###
 db.json
+.deploy_git
 public/
 
 ### Node ###
