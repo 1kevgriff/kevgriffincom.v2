@@ -1,6 +1,6 @@
 ---
 title: Enhancing Your Career with a Mastermind Group
-date: 2019-01-11 11:04:49
+date: 2019-02-08 11:04:49
 categories:
   - Business
 tags: career, mastermind
@@ -15,7 +15,7 @@ I was lucky and accidentally found myself a group of folks locally who were in t
 ## What is a Mastermind Group?
 My personal definition of a Mastermind Group is a "group of mutual improvement".
 
-In 1925, Napolean Hill coined the term "Mastermind" in his book [https://www.amazon.com/Law-Success-Deluxe-Napoleon-Hill/dp/0143130455/ref=as_li_ss_tl?_encoding=UTF8&qid=1547223686&sr=8-4&linkCode=ll1&tag=kevgr-20&linkId=b31d6267cc0c221e63bb7ab496bcbd7f&language=en_US](The Law of Success).
+In 1925, Napolean Hill coined the term "Mastermind" in his book [The Law of Success](https://www.amazon.com/Law-Success-Deluxe-Napoleon-Hill/dp/0143130455/ref=as_li_ss_tl?_encoding=UTF8&qid=1547223686&sr=8-4&linkCode=ll1&tag=kevgr-20&linkId=b31d6267cc0c221e63bb7ab496bcbd7f&language=en_US).
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=kevgr-20&language=en_US&marketplace=amazon&region=US&placement=0143130455&asins=0143130455&linkId=698f83c2040b5b610d725ab2117961db&show_border=true&link_opens_in_new_window=true"></iframe>
 
@@ -94,11 +94,11 @@ If it's a win in your book, that's awesome.
 _What was your business win for the week?_  
 This question is usually easier to answer.  Personal wins are personal, but how did your business do this week?  And if your Mastermind isn't focused on business, maybe replace it with professional win.
 
-> I signed a new client.
-
-> I wrapped up a contract.
-
-> I finished phase one of my SAAS idea and shipped it.
+> I signed a new client.  
+  
+> I wrapped up a contract.  
+  
+> I finished phase one of my SAAS idea and shipped it.  
 
 Anything that proactively pushes your business forward is a win!
 
@@ -185,9 +185,30 @@ When choosing an accountability goal, it is important that the goal is helping y
 ### T - Time Limited
 Lastly, you need to be able to complete a goal in the limited time before your next session.  Don't set a goal that takes 3 months to complete.  If you find yourself falling into this trap, take a step back and break the problem down into smaller bits.
 
-Most likely you'll see there is a series of goals that need to be hit before the BIG goal is acheived.  What are they?
+Most likely you'll see there is a series of goals that need to be hit before the BIG goal is acheived.  What are they?  Can one of the goals be accomplished BEFORE the next meeting occurs?  When the answer is yes- that's a good goal for your accountability.
 
 ## Rules
+No matter what type of group you find yourself in, there are a couple key rules you'll have to mind by.
+
+First, **be honest**.  The group you surround yourself with is a trusted collection of individuals.  Their goal is to help you and each other move forward - however that sound be accomplished.  If you cannot be honest with this group, how can you expect them to give you advice and direction.
+
+**Be open** about everything.  At the end of 2018, I opened up my Balance Sheet and Profit/Loss sheets for the group and did an analysis for how much money came into the business.  Outside of my accountant, I do not disclose that much information to ANY individual.  In order for your group to give honest, criticial feedback - you need to be open about everything.  As soon as someone tries to assume, the usefulness of your advice will diminish.  
+
+**Be supportive** and **be non-judgemental**.  This is hard to remember, because the first thing you might want to say during a conversation is "that is the stupidest thing I've ever heard."
+
+Yup - don't do that.  Reserve yourself.  Consider your words.  Remember that people might be the thinking the same about you.  Use the reaction time to think about a better, more constructive way to guide the conversation.  More times than not, your understanding might be wrong or you might have a piece of collective wisdom to instill on the group.  
 
 ## Finding a Mastermind Group
+As you adventure out into the world, watering holes will being to show themselves.  Where do you go to meet like minded people in software dev?  Maybe a user group?  Maybe a conference?
+
+General networking practices apply here.  Are you active on Twitter, LinkedIn, or Reddit?  Pick a place, and ask someone there if they'd be interested in jumping on a call every week or two.  All my Mastermind groups have started this way?  If you're not being invited, do the inviting!
+
+Some services, like [Mastermind Hunt](https://mastermindhunt.com), exist to help make this easier for you too.  Mastermind Hunt is a marketplace for people looking for groups, and aims to make it happen organically.  Use code `kevin` for a free month and see if you find a group there.
+
+## Wrapping up
+Whatever you do, don't buy into a Mastermind group.  There are a series of "gurus" on the internet who will promise you the world by joining their "mastermind group" for the low price of XYZ dollars a year.  These are scams, and glorified Facebook Groups.  You will not get value out of these relationsships.
+
+I hope this overview has been enlightening, and given you something to think about.  I credit all of the major victories in my career and business to the advice I've received from different Mastermind Groups.  
+
+Find yourself a group - and let's takeover the world!
 
